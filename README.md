@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Hi there, I'm Klevi Merkuri 👋
+# I'm Klevi Merkuri 👋
 
 I'm a DevOps Engineer with a passion for automating and streamlining processes. I have experience in managing infrastructure, deploying and scaling applications, and ensuring high availability and performance.
 
@@ -22,7 +22,7 @@ I'm a DevOps Engineer with a passion for automating and streamlining processes. 
 
 ## 📫 How to reach me
 
-- LinkedIn: [Klevi Merkuri](https://www.linkedin.com/in/klevimerkuri/)
+- LinkedIn: [Klevi Merkuri](https://www.linkedin.com/in/klevi-m-798224162)
 - Website/Portfolio: [kmerkuri.com](https://www.kmerkuri.com)
 
 Feel free to reach out if you have any questions or would like to collaborate on a project!
