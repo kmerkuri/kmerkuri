@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**kmerkuri/kmerkuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Klevi Merkuri 👋
 
-Here are some ideas to get you started:
+I'm a DevOps Engineer with a passion for automating and streamlining processes. I have experience in managing infrastructure, deploying and scaling applications, and ensuring high availability and performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies and Tools
+
+- **Cloud Platforms**: AWS, Azure, GCP
+- **Configuration Management**: Ansible, Packer
+- **Containerization**: Docker, Kubernetes
+- **Continuous Integration/Deployment**: Jenkins, GitLab CI/CD, Azure DevOps, Github Actions
+- **Monitoring and Logging**: Prometheus, Grafana, ELK Stack , Datadog, NewRelic
+- **Scripting and Programming Languages**: Python, Bash, Ruby, Golang
+- **Infrastructure as Code**: Terraform Cloud, CloudFormation ,ARM Templates
+
+## 🌱 I’m currently learning
+
+- **Serverless Architecture**: Exploring the possibilities of building and deploying serverless applications.
+- **Machine Learning Operations (MLOps)**: Applying DevOps principles to machine learning projects.
+
+
+## 📫 How to reach me
+
+- LinkedIn: [Klevi Merkuri](https://www.linkedin.com/in/klevimerkuri/)
+- Website/Portfolio: [kmerkuri.com](https://www.kmerkuri.com)
+
+Feel free to reach out if you have any questions or would like to collaborate on a project!
+
